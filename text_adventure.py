@@ -1,6 +1,6 @@
 """
 Describe your text adventure experience.
-Jude Averitt - september 2026
+Jude Averitt - September 2026
 
 """
 
